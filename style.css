@@ -12,14 +12,14 @@ h2{
 section{
     margin-bottom: 50px;
 }
-img{
+.bodyFor img{
     width: 100%;
 }
 .top-section{
-    background-image: url(./images/donation13.jpg);
+    background-image: url(./images/donation130.jpg);
     /* background-repeat: no-repeat; */
     background-size: cover;
-    width: 99%;
+    width: 95%;
 }
 .banner-div{
     text-align: center;
@@ -140,4 +140,32 @@ img{
     padding: 10px 25px;
     border-radius: 8px;
     padding-top: 3px;
+}
+.lastdiv{
+    text-align: center;
+}
+.last-twoDiv{
+    background-color: rgba(255, 99, 71, 0.398);
+    margin: auto;
+    text-align: center;
+    width: 45%;
+    padding: 50px 40px;
+}
+.last-twoDiv input{
+    padding: 10px 10px;
+}
+.last-twoDiv a{
+    text-decoration: none;
+    background-color: brown;
+    padding: 10px 7px;
+    border-radius: 4px;
+    color: white;
+}
+
+
+footer{
+    background-color: blueviolet;
+    text-align: center;
+    margin-bottom: 29px;
+    color: white;
 }
